@@ -10,8 +10,8 @@ Equipment | Computing backend | System | Framework | input_size| Run time
  :-----:|:-----:|:-----:|:----------:|:----:|:----:|
 Intel | Core i5-4210 | window10（x64） | ncnn@fp16  | 320| 36ms
 Intel | Core i5-4210 | window10（x64） | ncnn@int8 | 320| 57ms
-Raspberrypi 3B| 4xCortex-A53 | Linux(arm64) | ncnn@fp16 | 320| 217ms
-Raspberrypi 3B| 4xCortex-A53 | Linux(arm64) | ncnn@int8 | 320| 313ms
+Raspberrypi 3B| 4xCortex-A53 | Linux(arm64) | ncnn@fp16 | 320| 313ms
+Raspberrypi 3B| 4xCortex-A53 | Linux(arm64) | ncnn@int8 | 320| 217ms
 
 
  - **Installing NCNN**
